@@ -1,9 +1,8 @@
 ---
 title: Yulin Jin 金羽麟
-role: Internship engineer
-avatar_filename: /content/authors/yulin-jin-金羽麟/vex.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Engineer
+avatar_filename: avatar.jpg
+bio: My research interests include reinforcement learning, robotics control and convex optimization.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
