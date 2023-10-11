@@ -1,7 +1,7 @@
 ---
 title: Yulin Jin 金羽麟
 role: Internship engineer
-avatar_filename: avatar.jpg
+avatar_filename: io.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -18,15 +18,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-#   - icon: graduation-cap
-    # icon_pack: fas
-    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Si9hence
-#   - icon: linkedin
-    # icon_pack: fab
-    # link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -34,7 +28,7 @@ organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
 education:
-  courses: 
+  courses:
     - course: Msc in Scientific and Data Intensive Computing
       institution: University College London
       year: 2021
