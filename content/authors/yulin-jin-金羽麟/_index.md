@@ -38,6 +38,6 @@ email: ""
 ---
 
 <!-- I am currently an engineer under the supervision of Prof Yu Wang in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group at Tsinghua University. I am dedicated to uniting reinforcement learning and control for agile robotics.   -->
-I received a 4-year Mphys in Physics at the University of Oxford at 2020. I then completed Master's degree in Scientific and Data Intensive Computing at the University College London at 2021. I am currently an engineer under the supervision of Prof Yu Wang at Tsinghua University.
+I received a 4-year Mphys in Physics at the University of Oxford at 2020. I then completed Master's degree in Scientific and Data Intensive Computing at the University College London at 2021. I am currently an engineer under the supervision of Prof Yu Wang at Tsinghua University.  
 My research interest is to empower robots in navigating **unstructured environments** with both **reliability and adaptability**. By leveraging innovative data-driven methods, I aim to enhance robots' understanding of the physical world through interactive exploration.
 {style="text-align: justify;"}
