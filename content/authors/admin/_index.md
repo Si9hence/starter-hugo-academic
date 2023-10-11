@@ -1,6 +1,6 @@
 ---
 title: Yulin Jin 金羽麟
-role: Professor of Artificial Intelligence
+role: Internship engineer
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -18,32 +18,29 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#   - icon: graduation-cap
+    # icon_pack: fas
+    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Si9hence
+#   - icon: linkedin
+    # icon_pack: fab
+    # link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/en/
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: 
+    - course: Msc in Scientific and Data Intensive Computing
+      institution: University College London
+      year: 2021
+    - course: Mphy in Physics
+      institution: University of Oxford
+      year: 2020
 superuser: true
 status:
   icon: ☕️
