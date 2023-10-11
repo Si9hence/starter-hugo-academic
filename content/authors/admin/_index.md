@@ -50,6 +50,6 @@ first_name: Alice
 email: ""
 ---
 
-I am an internship engineering in https://nicsefc.ee.tsinghua.edu.cn/ affiliated with Department of Electronic Engineering at Tsinghua University. I am dedicated to uniting reinforcement learning and control for agile robotics.
+I am an internship engineering in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group affiliated with Department of Electronic Engineering at Tsinghua University. I am dedicated to uniting reinforcement learning and control for agile robotics.
 My ultimate goal is to empower robots to navigate **unstructured environments** with both **reliability and adaptability**. By leveraging innovative data-driven methods, I aim to enhance robots' understanding of the physical world through interactive exploration.
 {style="text-align: justify;"}
