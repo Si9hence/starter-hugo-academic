@@ -1,7 +1,7 @@
 ---
 title: Yulin Jin 金羽麟
 role: Internship engineer
-avatar_filename: shelly.jpg
+avatar_filename: vex.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
