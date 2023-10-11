@@ -1,7 +1,7 @@
 ---
 title: Yulin Jin 金羽麟
 role: Internship engineer
-avatar_filename: io.png
+avatar_filename: shelly.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -12,12 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: yulin.j@outlook.com
-#   - icon: twitter
-    # icon_pack: fab
-    # link: https://twitter.com/GeorgeCushen
-    # label: Follow me on Twitter
-    # display:
-    #   header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/Si9hence
