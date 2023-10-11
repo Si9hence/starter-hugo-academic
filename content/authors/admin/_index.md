@@ -11,13 +11,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: yulin.j@outlook.com
+#   - icon: twitter
+    # icon_pack: fab
+    # link: https://twitter.com/GeorgeCushen
+    # label: Follow me on Twitter
+    # display:
+    #   header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/Si9hence
@@ -38,12 +38,13 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Jin
 highlight_name: true
-first_name: Alice
+first_name: Yulin
 email: ""
 ---
 
-I am an internship engineering in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group affiliated with Department of Electronic Engineering at Tsinghua University. I am dedicated to uniting reinforcement learning and control for agile robotics.
+I am currently an internship engineering under the supervision of Prof Yu Wang in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group at Tsinghua University. I am dedicated to uniting reinforcement learning and control for agile robotics.  
+I received a 4-year Mphys in Physics degree at the University of Oxford at 2020. I then completed another master's degree in Scientific and Data Intensive Computing at the University College London at 2021.  
 My ultimate goal is to empower robots to navigate **unstructured environments** with both **reliability and adaptability**. By leveraging innovative data-driven methods, I aim to enhance robots' understanding of the physical world through interactive exploration.
 {style="text-align: justify;"}
