@@ -185,14 +185,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+#   - block: markdown
+#     content:
+#       title: Gallery
+#       subtitle: ''
+#       text: |-
+#         {{< gallery album="demo" >}}
+#     design:
+#       columns: '1'
   - block: collection
     id: featured
     content:
@@ -228,28 +228,28 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+#   - block: tag_cloud
+#     content:
+#       title: Popular Topics
+#     design:
+#       columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: yulin.j@outlook.com
     #   phone: 888 888 88 88
     #   appointment_url: 'https://calendly.com'
-    #   address:
-        # street: 450 Serra Mall
-        # city: Stanford
+      address:
+        street: 4F Rohm Building, Tsinghua University
+        city: Beijing
         # region: CA
-        # postcode: '94305'
-        # country: United States
+        postcode: '100084'
+        country: China
         # country_code: US
     #   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     #   office_hours:
