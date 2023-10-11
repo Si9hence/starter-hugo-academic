@@ -1,12 +1,13 @@
 ---
 title: Yulin Jin 金羽麟
-role: Engineer
+role: Internship Engineer
 avatar_filename: avatar.jpg
 bio: My research interests include reinforcement learning, robotics control and convex optimization.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement learning
+  - Adaptive and robust control
+  - Efficient optimization algorithm
+  - Resource allocation in hybrid systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,7 +26,7 @@ education:
     - course: Msc in Scientific and Data Intensive Computing
       institution: University College London
       year: 2021
-    - course: Mphy in Physics
+    - course: Mphys in Physics
       institution: University of Oxford
       year: 2020
 superuser: true
@@ -37,7 +38,6 @@ first_name: Yulin
 email: ""
 ---
 
-<!-- I am currently an engineer under the supervision of Prof Yu Wang in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group at Tsinghua University. I am dedicated to uniting reinforcement learning and control for agile robotics.   -->
-I received a 4-year Mphys in Physics at the University of Oxford at 2020. I then completed Master's degree in Scientific and Data Intensive Computing at the University College London at 2021. I am currently an engineer under the supervision of Prof Yu Wang at Tsinghua University.  
-My research interest is to empower robots in navigating **unstructured environments** with both **reliability and adaptability**. By leveraging innovative data-driven methods, I aim to enhance robots' understanding of the physical world through interactive exploration.
+I am currently an internship engineer under the supervision of Prof Yu Wang in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group at Tsinghua University.  I received a 4-year Mphys in Physics at the University of Oxford at 2020 and a second Master's degree in scientific computing at the University College London at 2021. After graduation, I servered as a quant researcher in Bohong Capital in Shanghai for one year.  
+I am dedicated to uniting reinforcement learning for agile robotics control. My research interest is to empower robots to understand and plan for cooperation tasks with both **reliability and adaptability**. In addition, I am also interested in the optimization of energy management in robotics by leveraging innovative data-driven methods.
 {style="text-align: justify;"}
