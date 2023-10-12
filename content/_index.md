@@ -71,16 +71,16 @@ sections:
       items:
         - title: Engineer
           company: Tsinghua University
-          company_url: ''
+          company_url: 'https://www.tsinghua.edu.cn/en/'
           company_logo: org-gc
           location: Beijing
           date_start: '2023-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-              * Simulation framework development
-              * Control policy sim-2-real transfer
-              * Junior mentor
+            Responsibilities include:
+            * Simulation framework development
+            * Control policy sim-2-real transfer
+            * Junior mentor
         - title: Quantitive Researcher
           company: Bohong Capital (Private Equity)
           company_url: 'http://bhcapital.cn/stationWebsite/w/h?'
@@ -89,9 +89,9 @@ sections:
           date_start: '2021-09-01'
           date_end: '2022-12-01'
           description: |2-
-                Responsibilities included:
-                * Portfolio drawback management
-                * Stock market factor analysis
+            Responsibilities included:
+            * Portfolio drawback management
+            * Stock market factor analysis
     design:
       columns: '2'
   - block: accomplishments
