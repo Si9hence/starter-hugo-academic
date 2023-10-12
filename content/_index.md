@@ -72,7 +72,7 @@ sections:
         - title: Engineer
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
-          company_logo: org-gc
+          company_logo: tsinghua
           location: Beijing
           date_start: '2023-06-01'
           date_end: ''
@@ -84,7 +84,7 @@ sections:
         - title: Quantitive Researcher
           company: Bohong Capital (Private Equity)
           company_url: 'http://bhcapital.cn/stationWebsite/w/h?'
-          company_logo: bhlogo.png
+          company_logo: org-x
           location: Shanghai
           date_start: '2021-09-01'
           date_end: '2022-12-01'
