@@ -78,17 +78,20 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Modelling
-              * Deploying
+              * Simulation framework development
+              * Policy sim-2-real transfer
+              * Junior mentor
         - title: Quantitive Researcher
           company: Bohong Capital (Private Equity)
           company_url: 'http://bhcapital.cn/stationWebsite/w/h?'
-          company_logo: org-x
+          company_logo: /images/bhlogo.png
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2021-09-01'
+          date_end: '2022-12-01'
+          description: |2-
+                Responsibilities included:
+                * Portfolio drawback management
+                * Stock market factor analysis
     design:
       columns: '2'
   - block: accomplishments
