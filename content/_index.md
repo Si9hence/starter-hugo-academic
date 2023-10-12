@@ -84,7 +84,7 @@ sections:
         - title: Quantitive Researcher
           company: Bohong Capital (Private Equity)
           company_url: 'http://bhcapital.cn/stationWebsite/w/h?'
-          company_logo: /images/bhlogo.png
+          company_logo: /bhlogo.png
           location: Shanghai
           date_start: '2021-09-01'
           date_end: '2022-12-01'
