@@ -1,6 +1,6 @@
 ---
 title: Yulin Jin 金羽麟
-role: Internship Engineer
+role: Engineer (Intern)
 avatar_filename: avatar.jpg
 bio: My research interests include reinforcement learning, robotics control and convex optimization.
 interests:
