@@ -105,30 +105,70 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+        - certificate_url: https://coursera.org/share/472731976645272377389d106b6d3c2f
+          date_end: '2017-09-25'
+          date_start: ''
+          description: 'Grade Achieved: 100%'
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          url: 'https://www.coursera.org/learn/neural-networks-deep-learning'        
+        - certificate_url: https://coursera.org/share/63605d37bd023359797122698a157bc1
+          date_end: '2022-12-01'
+          date_start: ''
+          description: 'Grade Achieved: 100%'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Structuring Machine Learning Projects
+          url: 'https://www.coursera.org/learn/machine-learning-projects'        
+        - certificate_url: https://coursera.org/share/0833c948b225937b3e5189a7cdd6b8ef
+          date_end: '2022-12-03'
+          date_start: ''
+          description: 'Grade Achieved: 99.50%'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Convolutional Neural Networks
+          url: 'https://www.coursera.org/learn/convolutional-neural-networks'        
+        - certificate_url: https://coursera.org/share/0b9a3d463df137879b39cb1a11fea820
+          date_end: '2017-10-02'
+          date_start: ''
+          description: 'Grade Achieved: 100%'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Hyperparameter Tuning, Regularization and Optimization
+          url: 'https://www.coursera.org/learn/deep-neural-network'        
+        - certificate_url: https://coursera.org/share/4f3c1fcf2e791cbb760330921beab89e
+          date_end: '2022-12-11'
+          date_start: ''
+          description: 'Grade Achieved: 100%'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Sequence Models
+          url: 'https://www.coursera.org/learn/nlp-sequence-models'
+        - certificate_url: https://coursera.org/share/a515e528e08ceb14ff3bd9da2adbb1bd
+          date_end: '2022-10-31'
+          date_start: ''
+          description: 'Grade Achieved: 100%'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Python for Everybody Specialization
+          url: 'https://www.coursera.org/specializations/python'
+        # - certificate_url: https://www.edx.org
+        #   date_end: ''
+        #   date_start: '2021-01-01'
+        #   description: Formulated informed blockchain models, hypotheses, and use cases.
+        #   organization: edX
+        #   organization_url: https://www.edx.org
+        #   title: Blockchain Fundamentals
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   - block: collection
@@ -238,7 +278,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
+    #   text: |-
         # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: yulin.j@outlook.com
