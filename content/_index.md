@@ -79,12 +79,12 @@ sections:
           description: |2-
               Responsibilities include:
               * Simulation framework development
-              * Policy sim-2-real transfer
+              * Control policy sim-2-real transfer
               * Junior mentor
         - title: Quantitive Researcher
           company: Bohong Capital (Private Equity)
           company_url: 'http://bhcapital.cn/stationWebsite/w/h?'
-          company_logo: /bhlogo.png
+          company_logo: bhlogo.png
           location: Shanghai
           date_start: '2021-09-01'
           date_end: '2022-12-01'
