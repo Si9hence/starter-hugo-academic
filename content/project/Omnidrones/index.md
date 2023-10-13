@@ -41,11 +41,24 @@ Highlights of our **Omnidrones**
 * Flexibility: easy for users to import models and add customized dynamics 
 * RL-Support: design tasks of varying challenges and difficulty levels for RL
 
-image:
-  caption: test image
-  focal_point: Smart
-  filename: test.jpg
+<!-- ![The template](test.jpg) -->
 
+<!-- ![Watch the video](Picture.gif) -->
 
+## Hover
+[<img src="./hover.gif" width="600" height="300"
+/>](https://www.youtube.com/embed/1P4TI3EdNGE)
+
+## Track for inverted pendulum system
+[<img src="./pendulum.gif" width="600" height="300"
+/>](https://youtu.be/p1czNpwWmck)
+
+## Pong game
+[<img src="./pong.gif" width="600" height="300"
+/>](https://youtu.be/1P4TI3EdNGE)
+
+## Ping pong game
+[<img src="./pingpong.gif" width="600" height="300"
+/>](https://youtu.be/J059XTV49gU)
 
 
