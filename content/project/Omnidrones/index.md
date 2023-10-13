@@ -29,6 +29,8 @@ url_video: 'https://www.youtube.com/watch?v=qLHUlGk3W9M&list=RD5v3NG15-OZ8&index
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
+
+content:
 ---
 Problems in existing drone simulators
 * Low sampling efficiency.
@@ -38,6 +40,12 @@ Highlights of our **Omnidrones**
 * Efficiency: over $10^5$ steps per second in data collection
 * Flexibility: easy for users to import models and add customized dynamics 
 * RL-Support: design tasks of varying challenges and difficulty levels for RL
+
+image:
+  caption: test image
+  focal_point: Smart
+  filename: test.jpg
+
 
 
 
