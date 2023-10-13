@@ -38,6 +38,6 @@ first_name: Yulin
 email: ""
 ---
 
-I am currently a research engineer under the supervision of Prof Yu Wang in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group at Tsinghua University.  I received a 4-year Mphys in Physics at the University of Oxford in 2020 and a second Master's degree in scientific computing at the University College London in 2021. After graduation, I servered as a quant researcher in Bohong Capital in Shanghai for one year.  
+I am currently a research engineer under the supervision of Prof Yu Wang in [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn/) group at Tsinghua University. I received an undergraduate Master of Physics at Oxford University in 2020 and a Master of Scientific Computing at UCL in 2021. After graduation, I served as a quant researcher in Bohong Capital in Shanghai for one year.  
 I am dedicated to uniting reinforcement learning for agile robotics control. My research interest is to enhance robots' capabilities to plan and act for cooperation tasks with both **reliability and adaptability**. In addition, I am also enthusiastic about the optimization of energy and resource allocation in robotics systems by leveraging innovative data-driven methods.
 {style="text-align: justify;"}
