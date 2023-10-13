@@ -21,14 +21,14 @@ image:
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=qLHUlGk3W9M&list=RD5v3NG15-OZ8&index=2'
+# url_video: 'https://www.youtube.com/watch?v=qLHUlGk3W9M&list=RD5v3NG15-OZ8&index=2'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 content:
 ---

@@ -26,7 +26,7 @@ education:
     - course: Msc in Scientific and Data Intensive Computing
       institution: University College London
       year: 2021
-    - course: Mphys in Physics
+    - course: Mphys(4-year integrated masters) in Physics
       institution: University of Oxford
       year: 2020
 superuser: true
