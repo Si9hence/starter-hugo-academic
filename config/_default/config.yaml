@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Ourobovos # Website name
-baseURL: 'https://si9hence.io/' # Website URL
+title: Si9hence # Website name
+baseURL: 'https://www.jinyulin.io/' # Website URL
 
 ############################
 ## LANGUAGE

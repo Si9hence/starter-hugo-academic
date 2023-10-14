@@ -57,43 +57,7 @@ sections:
 #           description: 10%
 #           icon: camera-retro
 #           icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Engineer
-          company: Tsinghua University
-          company_url: 'https://www.tsinghua.edu.cn/en/'
-          company_logo: tsinghua
-          location: Beijing
-          date_start: '2023-06-01'
-          date_end: ''
-          description: |2-
-            Responsibilities include:
-            * Simulation framework development
-            * Control policy sim-2-real transfer
-            * Junior mentor
-        - title: Quantitive Researcher
-          company: Bohong Capital (Private Equity)
-          company_url: 'http://bhcapital.cn/stationWebsite/w/h?'
-          company_logo: bohong
-          location: Shanghai
-          date_start: '2021-09-01'
-          date_end: '2022-12-01'
-          description: |2-
-            Responsibilities included:
-            * Portfolio drawback management
-            * Stock market factor analysis
-    design:
-      columns: '2'
+
 #   - block: collection
 #     id: posts
 #     content:
@@ -150,6 +114,43 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Internship researcher
+          company: Tsinghua University
+          company_url: 'https://www.tsinghua.edu.cn/en/'
+          company_logo: tsinghua
+          location: Beijing
+          date_start: '2023-06-01'
+          date_end: ''
+          description: |2-
+            Responsibilities include:
+            * Simulation framework development
+            * Control policy sim-2-real transfer
+            * Junior mentor
+        - title: Quantitive Researcher
+          company: Bohong Capital (Private Equity)
+          company_url: 'http://bhcapital.cn/stationWebsite/w/h?'
+          company_logo: bohong
+          location: Shanghai
+          date_start: '2021-09-01'
+          date_end: '2022-12-01'
+          description: |2-
+            Responsibilities included:
+            * Portfolio drawback management
+            * Stock market factor analysis
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
