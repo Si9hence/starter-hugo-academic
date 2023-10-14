@@ -11,7 +11,8 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yulin.j@outlook.com
+    email: yulin.j@outlook.com
+    # link: yulin.j@outlook.com
 #   - icon: github
     # icon_pack: fab
     # link: https://github.com/Si9hence

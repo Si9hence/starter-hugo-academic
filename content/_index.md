@@ -151,68 +151,68 @@ sections:
             * Stock market factor analysis
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-    #   title: 'Accomplish&shy;ments'
-      title: 'MOOC'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://coursera.org/share/472731976645272377389d106b6d3c2f
-          date_end: ''
-          date_start: '2017-09-25'
-          description: 'Grade Achieved: 100%'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: https://www.coursera.org/learn/neural-networks-deep-learning        
-        - certificate_url: https://coursera.org/share/63605d37bd023359797122698a157bc1
-          date_end: ''
-          date_start: '2022-12-01'
-          description: 'Grade Achieved: 100%'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Structuring Machine Learning Projects
-          url: https://www.coursera.org/learn/machine-learning-projects      
-        - certificate_url: https://coursera.org/share/0833c948b225937b3e5189a7cdd6b8ef
-          date_end: ''
-          date_start: '2022-12-03'
-          description: 'Grade Achieved: 99.50%'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Convolutional Neural Networks
-          url: https://www.coursera.org/learn/convolutional-neural-networks        
-        - certificate_url: https://coursera.org/share/0b9a3d463df137879b39cb1a11fea820
-          date_end: ''
-          date_start: '2017-10-02'
-          description: 'Grade Achieved: 100%'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Hyperparameter Tuning, Regularization and Optimization
-          url: https://www.coursera.org/learn/deep-neural-network      
-        - certificate_url: https://coursera.org/share/4f3c1fcf2e791cbb760330921beab89e
-          date_end: ''
-          date_start: '2022-12-11'
-          description: 'Grade Achieved: 100%'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Sequence Models
-          url: https://www.coursera.org/learn/nlp-sequence-models
-        - certificate_url: https://coursera.org/share/a515e528e08ceb14ff3bd9da2adbb1bd
-          date_end: ''
-          date_start: '2022-10-31'
-          description: 'Grade Achieved: 100%'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Python for Everybody Specialization
-          url: https://www.coursera.org/specializations/python
+#   - block: accomplishments
+#     content:
+#       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+#     #   title: 'Accomplish&shy;ments'
+#       title: 'MOOC'
+#       subtitle:
+#       # Date format: https://wowchemy.com/docs/customization/#date-format
+#       date_format: Jan 2006
+#       # Accomplishments.
+#       #   Add/remove as many `item` blocks below as you like.
+#       #   `title`, `organization`, and `date_start` are the required parameters.
+#       #   Leave other parameters empty if not required.
+#       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#       items:
+#         - certificate_url: https://coursera.org/share/472731976645272377389d106b6d3c2f
+#           date_end: ''
+#           date_start: '2017-09-25'
+#           description: 'Grade Achieved: 100%'
+#           organization: Coursera
+#           organization_url: https://www.coursera.org
+#           title: Neural Networks and Deep Learning
+#           url: https://www.coursera.org/learn/neural-networks-deep-learning        
+#         - certificate_url: https://coursera.org/share/63605d37bd023359797122698a157bc1
+#           date_end: ''
+#           date_start: '2022-12-01'
+#           description: 'Grade Achieved: 100%'
+#           organization: Coursera
+#           organization_url: https://www.coursera.org
+#           title: Structuring Machine Learning Projects
+#           url: https://www.coursera.org/learn/machine-learning-projects      
+#         - certificate_url: https://coursera.org/share/0833c948b225937b3e5189a7cdd6b8ef
+#           date_end: ''
+#           date_start: '2022-12-03'
+#           description: 'Grade Achieved: 99.50%'
+#           organization: Coursera
+#           organization_url: https://www.coursera.org
+#           title: Convolutional Neural Networks
+#           url: https://www.coursera.org/learn/convolutional-neural-networks        
+#         - certificate_url: https://coursera.org/share/0b9a3d463df137879b39cb1a11fea820
+#           date_end: ''
+#           date_start: '2017-10-02'
+#           description: 'Grade Achieved: 100%'
+#           organization: Coursera
+#           organization_url: https://www.coursera.org
+#           title: Hyperparameter Tuning, Regularization and Optimization
+#           url: https://www.coursera.org/learn/deep-neural-network      
+#         - certificate_url: https://coursera.org/share/4f3c1fcf2e791cbb760330921beab89e
+#           date_end: ''
+#           date_start: '2022-12-11'
+#           description: 'Grade Achieved: 100%'
+#           organization: Coursera
+#           organization_url: https://www.coursera.org
+#           title: Sequence Models
+#           url: https://www.coursera.org/learn/nlp-sequence-models
+#         - certificate_url: https://coursera.org/share/a515e528e08ceb14ff3bd9da2adbb1bd
+#           date_end: ''
+#           date_start: '2022-10-31'
+#           description: 'Grade Achieved: 100%'
+#           organization: Coursera
+#           organization_url: https://www.coursera.org
+#           title: Python for Everybody Specialization
+#           url: https://www.coursera.org/specializations/python
         # - certificate_url: https://www.edx.org
         #   date_end: ''
         #   date_start: '2021-01-01'
@@ -229,8 +229,8 @@ sections:
         #   organization_url: https://www.datacamp.com
         #   title: 'Object-Oriented Programming in R'
         #   url: ''
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
 #   - block: markdown
 #     content:
 #       title: Gallery
