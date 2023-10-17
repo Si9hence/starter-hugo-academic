@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    email: yulin.j@outlook.com
+    link: https://jinyulin.io/#:~:text=Send-,yulin.j%40outlook.com,-4F%20Rohm%20Building
     # link: yulin.j@outlook.com
 #   - icon: github
     # icon_pack: fab
