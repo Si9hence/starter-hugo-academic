@@ -28,7 +28,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: omnidrones
 
 content:
 ---
@@ -71,7 +71,7 @@ The idea of this task is from the Atari's video game Pong. The goal is to bounce
 />](https://youtu.be/1P4TI3EdNGE)
 
 ### Ping pong game
-A multi-agent version of Pong game.
+A multi-agent version of Pong game, MARL cooperation task.
 [<img src="./pingpong.gif" width="600" height="300"
 />](https://youtu.be/J059XTV49gU)
 
