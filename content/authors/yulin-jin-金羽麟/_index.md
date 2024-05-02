@@ -18,7 +18,7 @@ social:
     # link: https://github.com/Si9hence
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link:  https://docsend.com/view/g8f4f74jhymrqsxc
 organizations:
   - name: University of Edinburgh
     url: https://www.ed.ac.uk/
