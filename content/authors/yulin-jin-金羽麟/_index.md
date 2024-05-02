@@ -1,5 +1,5 @@
 ---
-title: Yulin Jin
+title: Sai Jin
 role: PhD candidate in AI safety
 avatar_filename: avatar.jpg
 bio: My research interests include Reachability analysis, formal verification and convex optimization.
@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://jinyulin.io/#:~:text=Send-,yulin.j%40outlook.com,-4F%20Rohm%20Building
+    link: https://si9hence.io/#:~:text=Send-,si9hence%40outlook.com,-4F%20Rohm%20Building
     # link: yulin.j@outlook.com
 #   - icon: github
     # icon_pack: fab
