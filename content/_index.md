@@ -40,8 +40,8 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-    #   username: yulin-jin-金羽麟
-      username: sai-jin
+      username: sai
+    #   username: sai-jin
 #   - block: features
 #     content:
 #       title: Skills
